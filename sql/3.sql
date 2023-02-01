@@ -1,0 +1,1 @@
+SELECT * FROM tz_db WHERE status % 2 = 0 
